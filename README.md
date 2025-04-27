@@ -44,4 +44,29 @@ Ipconfig/all Virtual Machine 3 (W10-1) <br/>
 <img src="https://i.imgur.com/RdB8UOQ.png" height="80%" width="80%" 
 </br>
 
+<p align="center">
+Installed OS (S22-1)<br/>
+<img src="https://i.imgur.com/oyljOpu.png" height="80%" width="80%" 
+</br>
+
+<p align="center">
+Installed OS (S22-2)<br/>
+<img src="https://i.imgur.com/7jl3oDd.png" height="80%" width="80%" 
+</br>
+
+<p align="center">
+Installed OS (W10)<br/>
+<img src="https://i.imgur.com/iUkGpsb.png" height="80%" width="80%" 
+</br>
+
+
+
+
+
+
+
+
+
+
+
 
