@@ -29,3 +29,19 @@ This project simulates the setup of a small virtual private network (VPN) for a 
 ---
 
 ## 🖼️ Screenshots
+<p align="center">
+Ipconfig/all Virtual Machine 1 (S22-1) <br/>
+<img src="https://i.imgur.com/6wDcJZT.png" height="80%" width="80%" 
+</br>
+
+<p align="center">
+Ipconfig/all Virtual Machine 2 (S22-2) <br/>
+<img src="https://i.imgur.com/NjdDOO7.png" height="80%" width="80%" 
+</br>
+
+<p align="center">
+Ipconfig/all Virtual Machine 3 (W10-1) <br/>
+<img src="https://i.imgur.com/RdB8UOQ.png" height="80%" width="80%" 
+</br>
+
+
